@@ -11,11 +11,9 @@ Blog of Miss Zeng.
 
 You are welcome to contact me via:
 
-Email: rainoftime#gmail.com (replace # with @ please)
-
-Douban:[?]()
-
-Zhihu: [?](https://www.zhihu.com)
+- Email: rainoftime#gmail.com (replace # with @ please)
+- Douban:[?]()
+- Zhihu: [?](https://www.zhihu.com)
 
 
 
