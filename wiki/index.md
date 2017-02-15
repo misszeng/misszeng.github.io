@@ -4,33 +4,16 @@ title: Wiki
 tagline: Supporting tagline
 ---
 
-Here is my personal wiki page.
 
 # Mathematics
 
-## Category theory
-- [Introduction to Category Theory](http://www.cs.nott.ac.uk/~pszgmh/cat.html) by [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) who wrote Programming in Haskell.
+## Mathematical Logic
 
-# Coding
 
-## Common
-- [52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) Learn a new technology every week.
 
-## Scala
-- [Type-Level programming in Scala](https://apocalisp.wordpress.com/2010/06/08/type-level-programming-in-scala/) Scala is a gateway to Haskell:)
-
-- [Introduction to Category theory in Scala](https://hseeberger.wordpress.com/2010/11/25/introduction-to-category-theory-in-scala/) Easy eassy.
-
-- [A shapeless primer](http://rnduja.github.io/2016/01/19/a_shapeless_primer/) a
-very good introduction to shapeless.
-
-## Rust
-- [Lambda crabs (part 1): A mathematical introduction to lifetimes and regions](https://ticki.github.io/blog/lambda_crabs_1/)
 
 # Programming Language
 
-## Type System
-- [Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)
+# Medicine 
 
-# Misc
-- [Hacker News](http://hn.premii.com/) Clean theme.
+
